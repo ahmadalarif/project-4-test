@@ -13,11 +13,11 @@ What would your team like to add next?
 # We will work to add more styles and components and Authentecation, and let the user add comments. 
 
 #Did we met the requirements?
-Requirements
+
 
 Build a full stack web application by using MongoDB,AXIOS as Back-End and React with Boostrap as a Front-End. And we Have had  2 models 
 
-We Have had add a full CRUD on all the models and the user is able to Add/Delete for all the models and we have had high quality code: and the code is well-structured and readable and it is Short and clear functions that do one thing
+We Have had added a full CRUD on all the models and the user is able to Add/Delete for all the models and we have had high quality code: and the code is well-structured and readable and it is Short and clear functions that do one thing
 we tryed our best to DRY (Don't Repeat Yourself) in coding
 and here you are the depoloyments on Heroku 
 # Project Wirefram link
