@@ -6,7 +6,7 @@ super(props);
 this.state={   
     
          
-     title: "English12Exam11",
+title: "English12Exam11",
 addtheQuestion:[
             {  theQuestion1: "Mommmed ",
                 first_Option: " Exellent",
@@ -22,12 +22,6 @@ addtheQuestion:[
             thrid_Option: " Hinotnb,bvbvcx7778865 bad",
             forth_Option: " fantistatic ",
             correct_answer: "good"
-
-
-
-
-
-
 }
 //this to  invoke method for input value
 this.handlExamname = this.handlExamname.bind(this);

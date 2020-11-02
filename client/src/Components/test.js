@@ -85,9 +85,9 @@ render(){
 </div>     
 
 )
-
 }
-}  export default Test;
+}  
+export default Test;
 
 
 
